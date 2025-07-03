@@ -100,10 +100,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=achrafes20&label=Profile%20views&color=0e75b6&style=flat" alt="achrafes20" /> 
-  <a href="https://github.com/achrafes20?tab=stars">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/achrafes20?label=Stars&style=social"> 
-  </a>
+  <img src="https://github.com/achrafes20/achrafes20/blob/output/github-contribution-grid-snake.svg" alt="Snake animation showing my GitHub contributions"/>
 </p>
 
 <p align="center"> 
