@@ -48,11 +48,11 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=achrafes764&show_icons=true&theme=tokyonight&locale=en" alt="achraf github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=achrafes20&show_icons=true&theme=tokyonight&locale=en" alt="achraf github stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=achrafes764&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=achrafes20&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achrafes764&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achrafes20&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
