@@ -2,8 +2,9 @@
 <h3 align="center">🚀 3rd Year Computer Engineering Student | Full-Stack Developer | DevOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=4AD395&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Always+learning+something+new+💡;Let's+build+great+things+together+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=4AD395&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Always+learning+something+new+💡;Let's+build+great+things+together+🚀" alt="Typing SVG" />
 </p>
+
 
 ---
 
