@@ -17,15 +17,9 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/achraf-es-serrar-300bb2279/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://fb.com/profile.php?id=100080119152617" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/achraf_esserrar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  </a>
+<a href="https://linkedin.com/in/achraf-es-serrar-300bb2279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achraf-es-serrar-300bb2279/" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100080119152617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100080119152617" height="30" width="40" /></a>
+<a href="https://instagram.com/achraf_esserrar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achraf_esserrar" height="30" width="40" /></a>
 </p>
 
 ---
