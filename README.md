@@ -157,17 +157,7 @@ Jeu de tir multi-niveaux avec interface graphique, détection de collisions et a
 
 </div>
 
----
 
-## 🏆 Trophées GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=achrafes20&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
-
-</div>
-
----
 
 ## 🎓 Formation & Certifications
 
