@@ -18,7 +18,7 @@
 ## 👨‍💻 À propos de moi
 
 ```yaml
-nom       : Achraf Es-Serrar
+nom       : Achraf Es-serrar
 lieu      : Tétouan, Maroc
 formation : Génie Informatique — ENSA Tétouan (4ème année, Bac+4)
 statut    : Recherche stage PFA (2–3 mois)
@@ -26,7 +26,6 @@ focus     :
   - Développement full-stack (Laravel, Angular, Spring Boot, React)
   - Machine Learning & IA (scikit-learn, XGBoost, FastAPI)
   - DevOps & conteneurisation (Docker, CI/CD, Linux)
-  - FinTech & systèmes intelligents
 ```
 
 > Passionné par la construction de systèmes à fort impact technologique, j'ai mené des projets ML complets de la collecte de données jusqu'au déploiement en production. Toujours en quête de nouveaux défis techniques.
