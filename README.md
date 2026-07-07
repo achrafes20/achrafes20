@@ -138,12 +138,7 @@ Jeu de tir multi-niveaux avec interface graphique, détection de collisions et a
 
 ## 📊 Statistiques GitHub
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=achrafes20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achrafes20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
-
-</div>
 
 <div align="center">
 
