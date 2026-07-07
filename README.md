@@ -7,7 +7,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/achraf-es-serrar-300bb2279/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=githubpages&logoColor=white)](https://achrafes20.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://esserrar-achraf.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esserrar.achraf@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/achrafes20)
 
@@ -21,14 +21,14 @@
 nom       : Achraf Es-serrar
 lieu      : Tétouan, Maroc
 formation : Génie Informatique — ENSA Tétouan (4ème année, Bac+4)
-statut    : Recherche stage PFA (2–3 mois)
+statut    : Recherche stage PFE (6 mois, à partir de janvier 2027)
 focus     :
   - Développement full-stack (Laravel, Angular, Spring Boot, React)
   - Machine Learning & IA (scikit-learn, XGBoost, FastAPI)
   - DevOps & conteneurisation (Docker, CI/CD, Linux)
 ```
 
-> Passionné par la construction de systèmes à fort impact technologique, j'ai mené des projets ML complets de la collecte de données jusqu'au déploiement en production. Toujours en quête de nouveaux défis techniques.
+> Étudiant en 4ᵉ année en Génie Informatique à l'ENSA de Tétouan, passionné par le développement logiciel, le DevOps et l'intelligence artificielle. Je suis à la recherche d'un stage de fin d'études (PFE) de 6 mois à partir de janvier 2027, afin de mettre en pratique mes compétences et de contribuer à des projets innovants à fort impact technologique.
 
 ---
 
@@ -194,14 +194,14 @@ Jeu de tir multi-niveaux avec interface graphique, détection de collisions et a
 
 ## 📬 Me contacter
 
-Je suis activement à la recherche d'un **stage PFA (2–3 mois)** en développement web, ML ou génie logiciel.
+Je suis activement à la recherche d'un **stage de fin d'études (PFE) de 6 mois, à partir de janvier 2027**, en développement web, ML ou génie logiciel.
 
 <div align="center">
 
 📧 **esserrar.achraf@gmail.com** · 📱 **0620830449** · 📍 **Tétouan, Maroc**
 
 [![LinkedIn](https://img.shields.io/badge/Discutons%20sur%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/achraf-es-serrar-300bb2279/)
-[![Portfolio](https://img.shields.io/badge/Voir%20mon%20portfolio-0f172a?style=for-the-badge&logo=githubpages&logoColor=white)](https://achrafes20.github.io)
+[![Portfolio](https://img.shields.io/badge/Voir%20mon%20portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://esserrar-achraf.vercel.app/)
 
 </div>
 
