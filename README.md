@@ -172,16 +172,6 @@ Modèle détectant les produits Nutri-Score E sur +10 000 produits (API Open Foo
 - Automatisé la gestion des produits et optimisé les requêtes MySQL
 - **Stack :** Laravel · JavaScript · Tailwind CSS · MySQL
 
----
-
-## 🌍 Langues
-
-| Langue | Niveau |
-|---|---|
-| 🇲🇦 Arabe | Langue maternelle |
-| 🇫🇷 Français | B2 |
-| 🇬🇧 Anglais | B2 |
-| 🇪🇸 Espagnol | A1 |
 
 ---
 
